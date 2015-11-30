@@ -1,0 +1,24 @@
+{
+  "name": "@ackuser/dev",
+  "version": "1.1.4",
+  "description": "Learn how to use and create npm modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackuser/how-to-npm-tasks.git"
+  },
+  "keywords": [
+    "npm",
+    "nodeschool"
+  ],
+  "author": "Karim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ackuser/how-to-npm-tasks/issues"
+  },
+  "homepage": "https://github.com/ackuser/how-to-npm-tasks#readme",
+  "dependencies": {}
+}
